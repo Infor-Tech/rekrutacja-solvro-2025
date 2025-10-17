@@ -64,19 +64,20 @@ Do wykonania rozwiązania potrzebne są:
 
 Zmontuj układ zgodnie z układem poniżej:
 ![schemat](./assets/schematics.png)
+
 Włóż czujnik poziomu cieczy do garnka tak, by zanurzona była część z prążkami. Włączając urządzenie sensor skalibruje się i odczyta poziom solnika. Jeśli poziom solnika spadnie, buzzer się uruchomi i dioda led zacznie się świecić.
 
 ### Zalety
 
 - Prostota (jak na urządzenie)
 - Cena (Arduino UNO to koszt na ali ~5$ + czujnik, buzzer, bateria ~3$)
-- Odstraszy Domino i na pewno powiadomi Marcinka
+- Odstraszy Marcinka i na pewno powiadomi Domino
 
 ### Wady
 
 - Sensor do badania poziomu wody może i jest tani, ale również jest podatny na korozję (solnik ma sól)
 - Sensor do badania poziomu wody może i jest tani, ale za to mało dokładny. Ruszenie garnkiem lub jego przechylenie wpłynie na wyniki.
-- Marcinek musiałby mieć na tyle szarych komórek, by dobrze podłączyć urządzenie.
+- Domino musiałby mieć na tyle szarych komórek, by dobrze podłączyć urządzenie.
 
 ### Miejsce na poprawę
 
