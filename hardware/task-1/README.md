@@ -36,7 +36,7 @@ Do wykonania rozwiązania potrzebne są:
 
 Połącz baterię i buzzer/diodę tak jak na rysunku.
 ![schemat](./assets/schemat1.png)
-Zanurz przewody by były delikatnie pod powierzchnią tafli solnika. Buzzer będzie grał/dioda świecić jeżeli poziom solnika spadnie poniżej zanurzonych przewodów.
+Zanurz przewody by były delikatnie pod powierzchnią tafli solnika. Buzzer będzie grał/dioda świecić jeżeli poziom solnika nie spadnie poniżej zanurzonych przewodów.
 
 ### Zalety
 
