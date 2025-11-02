@@ -12,3 +12,4 @@ As a part of this year's recruitment process to Solvro Science Club I prepared s
 
 - [Hardware](./hardware/)
 - [Project Management](./project-management/)
+- [Backend](https://github.com/Liseu1/kanarownik-solvro-backend) - Projekt z wakacyjnego wyzwania solvro
